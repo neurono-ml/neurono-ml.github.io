@@ -1,5 +1,10 @@
 # start-page
 
+Modelo:
+https://gitlab.com/gabsghidini/SmarketUP
+https://smarketup.com/
+
+
 Criei outro repositório pra não dar problema com o já existente. Depois pode ser fundido com o outro.
 
 Feito
