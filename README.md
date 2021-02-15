@@ -17,7 +17,12 @@ Observação
 **O site que utilizei como modelo tem copyright!!!!!!! **
 
 
-
+Falta
+- Arrumar o texto para apresentar melhor a nossa proposta
+- Procurar ícones e imagens relacionadas ao nosso tema e que possam ser utilizadas: cérebros, neurônios, sistemas neuraias, machine learning, etc;
+- Encontrar a fonte das imagens utilizadas no SMarketUp.com, as imagens são parecidas com a do iFood e talvez não seja difícil de encontrá-las;
+- Alterar a versão completa do site para não dar problemas autorais;
+- Criar versão em inglês do site.
 
 
 Scripts utilizados:
@@ -32,9 +37,4 @@ Scripts utilizados:
 </body>
 
 
-Falta
-- Arrumar o texto para apresentar melhor a nossa proposta
-- Procurar ícones e imagens relacionadas ao nosso tema e que possam ser utilizadas: cérebros, neurônios, sistemas neuraias, machine learning, etc;
-- Encontrar a fonte das imagens utilizadas no SMarketUp.com, as imagens são parecidas com a do iFood e talvez não seja difícil de encontrá-las;
-- Alterar a versão completa do site para não dar problemas autorais;
-- Criar versão em inglês do site.
+
