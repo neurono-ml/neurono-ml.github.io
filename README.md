@@ -1,7 +1,11 @@
 # start-page
+**Avaliar se está tudo ok!**
+
 
 Modelo:
 https://gitlab.com/gabsghidini/SmarketUP
+
+
 https://smarketup.com/
 
 
